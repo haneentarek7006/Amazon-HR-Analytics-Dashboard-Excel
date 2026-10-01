@@ -8,11 +8,11 @@ An interactive multi-tab Excel dashboard providing comprehensive insights into H
 
 ### 1. HR Overview
 High-level overview analyzing overall headcount, average monthly working hours, satisfaction rate, salary distribution, and department breakdown.
-![HR Overview](overview.png)
+![HR Overview](overview%20page.png)
 
 ### 2. Department Analysis
 In-depth evaluation comparing performance ratings, working hours, project workloads, and promotion rates across departments.
-![Department Analysis](department.png)
+![Department Analysis](dapartment.png)
 
 ### 3. Attrition & Risk Analysis
 Turnover analysis identifying employee retention risks by satisfaction level, promotion history, and department.
